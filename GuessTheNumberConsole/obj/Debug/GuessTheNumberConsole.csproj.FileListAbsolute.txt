@@ -1,0 +1,12 @@
+c:\users\sydney\documents\visual studio 2015\Projects\GuessTheNumberConsole\GuessTheNumberConsole\bin\Debug\GuessTheNumberConsole.exe.config
+C:\Users\Sydney\documents\visual studio 2015\Projects\GuessTheNumberConsole\GuessTheNumberConsole\bin\Debug\GuessTheNumberConsole.exe
+C:\Users\Sydney\documents\visual studio 2015\Projects\GuessTheNumberConsole\GuessTheNumberConsole\bin\Debug\GuessTheNumberConsole.pdb
+C:\Users\Sydney\documents\visual studio 2015\Projects\GuessTheNumberConsole\GuessTheNumberConsole\obj\Debug\GuessTheNumberConsole.csprojResolveAssemblyReference.cache
+C:\Users\Sydney\documents\visual studio 2015\Projects\GuessTheNumberConsole\GuessTheNumberConsole\obj\Debug\GuessTheNumberConsole.exe
+C:\Users\Sydney\documents\visual studio 2015\Projects\GuessTheNumberConsole\GuessTheNumberConsole\obj\Debug\GuessTheNumberConsole.pdb
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\GuessTheNumberConsole\GuessTheNumberConsole\bin\Debug\GuessTheNumberConsole.exe.config
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\GuessTheNumberConsole\GuessTheNumberConsole\obj\Debug\GuessTheNumberConsole.exe
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\GuessTheNumberConsole\GuessTheNumberConsole\obj\Debug\GuessTheNumberConsole.pdb
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\GuessTheNumberConsole\GuessTheNumberConsole\bin\Debug\GuessTheNumberConsole.exe
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\GuessTheNumberConsole\GuessTheNumberConsole\bin\Debug\GuessTheNumberConsole.pdb
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\GuessTheNumberConsole\GuessTheNumberConsole\obj\Debug\GuessTheNumberConsole.csprojResolveAssemblyReference.cache
